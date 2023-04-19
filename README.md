@@ -1,1 +1,1 @@
-This is my third ALX task
+readme for 0x03-shell_variables_expansions
